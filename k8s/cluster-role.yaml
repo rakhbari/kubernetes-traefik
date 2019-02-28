@@ -39,4 +39,4 @@ roleRef:
 subjects:
 - kind: ServiceAccount
   name: traefik-svc-acct
-  namespace: traefik infra-traefik
+  namespace: traefik
